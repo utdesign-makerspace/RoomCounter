@@ -1,0 +1,5 @@
+FROM alpine:3.7
+
+# To use the package manager use RUN apk <package name>
+
+# Run the code with CMD
